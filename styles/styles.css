@@ -153,6 +153,8 @@ nav li {
     text-align: center;
 }
 
+/* Features you will love & enjoy section */
+
 .brand-features {
     display: grid;
     grid-template-columns: 1fr 2fr;
